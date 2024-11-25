@@ -1,4 +1,3 @@
-
 import 'package:bhagavad_gita_app/views/detail_screen.dart';
 import 'package:bhagavad_gita_app/views/home_page.dart';
 import 'package:bhagavad_gita_app/views/splash_screen.dart';

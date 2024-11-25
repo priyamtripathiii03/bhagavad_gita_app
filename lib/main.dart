@@ -1,4 +1,3 @@
-
 import 'package:bhagavad_gita_app/provider/detail_page_provider.dart';
 import 'package:bhagavad_gita_app/provider/home_page_provider.dart';
 import 'package:bhagavad_gita_app/provider/shloks_provider.dart';

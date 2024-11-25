@@ -1,6 +1,4 @@
-
 import 'package:flutter/material.dart';
-
 import '../modal/shloks_modal.dart';
 
 List<Verse> verses = [];
